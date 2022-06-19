@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.pink,
       ),
-      home: const MyHomePage(title: ' Futter Users'),
+      home: const MyHomePage(title: ' Flutter Users'),
     );
   }
 }
